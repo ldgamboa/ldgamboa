@@ -1,6 +1,5 @@
 ### Hello there👋, I'm Luis Daniel Gamboa👨‍💻
 
-<!--
 **ldgamboa/ldgamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @ldgamboa on Telegram, Instagram or @elegamboa
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
--->
